@@ -83,9 +83,7 @@ if (isset($_POST['submit'])) {
     });
 </script>
 
-<h1>Analyze image:</h1>	
 	<div id="imageDiv" style="width:420px; display:table-cell;">
-		Source image:
 		<br><br>
 		<img id="sourceImage" width="400" />
 		<br>
